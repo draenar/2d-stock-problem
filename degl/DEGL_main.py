@@ -1,7 +1,3 @@
-"""
-Authors: Christoforos Papastergiopoulos, Tamposis Dimitris
-Evolutionary algorithms 2019-2020
-"""
 from WoodProblemDefinition import Stock, Order1, Order2, Order3
 from shapely.geometry import Point
 import time
