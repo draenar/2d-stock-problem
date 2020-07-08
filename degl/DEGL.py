@@ -1,8 +1,3 @@
-"""
-Authors: Christoforos Papastergiopoulos, Tamposis Dimitris
-Evolutionary algorithms 2019-2020
-"""
-
 import numpy as np
 import warnings
 from random import randint, random
