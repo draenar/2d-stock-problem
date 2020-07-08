@@ -1,8 +1,3 @@
-"""
-Authors: Christoforos Papastergiopoulos, Tamposis Dimitris
-Evolutionary algorithms 2019-2020
-
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.collections as pltcol
